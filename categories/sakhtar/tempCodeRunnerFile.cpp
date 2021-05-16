@@ -1,2 +1,1 @@
-
-        cout << stu[i].fname<<endl;
+book

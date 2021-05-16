@@ -1,1 +1,1 @@
-avg
+g++ 1.c++ -o App.exe 
